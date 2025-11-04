@@ -51,5 +51,5 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 ## 📝 License
 
-Copyright © 2021 [Apolo Freitas](https://www.linkedin.com/in/apolofreitas) and [Gabriel Auzier](https://www.linkedin.com/in/gabriel-auzier-a3a3891a6).<br />
+Copyright © 2021 [Athena Freitas](https://www.linkedin.com/in/athenacfr) and [Gabriel Auzier](https://www.linkedin.com/in/gabriel-auzier-a3a3891a6).<br />
 This project is [MIT](LICENSE) licensed.
